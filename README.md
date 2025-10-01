@@ -2,8 +2,8 @@
   <h1>Ulaş Işlak</h1>
   <p><b>.NET Developer | Full-Stack & Web App Development</b></p>
   
-  <img src="https://img.shields.io/badge/Profil%20Ziyaretçisi-5000+-green?style=flat-square" alt="Static Profile Counter"/>
-  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fulasislak&count_bg=%23228B22&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Ziyaretçi&edge_flat=true&start_count=5000" alt="Hits Counter"/>
+
   <br>
 
   <a href="https://www.linkedin.com/in/ulasislak/" target="_blank">
