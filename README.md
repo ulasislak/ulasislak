@@ -17,7 +17,7 @@
 ---
 
 ### 📄 Hakkımda
-Merhaba, ben Ulaş. .NET tabanlı teknolojilerle ölçeklenebilir ve performanslı backend çözümleri geliştirmeye odaklanmış bir yazılım geliştiricisiyim. Aynı zamanda Cursor ile React Native platformlar arası mobil uygulama geliştirme konusunda da uygulamalarım var. Temiz kod yazma prensiplerine inanıyor ve teknolojik yeteneklerimi sürekli olarak geliştirmeyi hedefliyorum.
+Merhaba, ben Ulaş. .NET tabanlı teknolojilerle ölçeklenebilir ve performanslı backend çözümleri geliştirmeye odaklanmış bir yazılım geliştiricisiyim. Aynı zamanda Cursor ile React Native platformlar arası mobil uygulama geliştirme konusunda da çalışmalarım var. Temiz kod yazma prensiplerine inanıyor ve teknolojik yeteneklerimi sürekli olarak geliştirmeyi hedefliyorum.
 
 ---
 
