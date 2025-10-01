@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <h1 style="color:#2196F3;">Ulaş Işlak 👋</h1> <p style="font-size:1.1em; color:#B0BEC5;"><b>.NET Developer | Full-Stack & Web App Development</b></p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
+  <h1 style="color:#2196F3;">Ulaş 👋</h1> 
+  <p style="font-size:1.1em; color:#B0BEC5;"><b>.NET Developer | Full-Stack & Web App Development</b></p>
   
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fulasislak&count_bg=%232196F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Ziyaretçi&edge_flat=true" alt="Hits Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=ulasislak&label=Profil%20Ziyaretçisi&color=2196F3&style=for-the-badge" alt="Profile Visitor Counter"/>
   
   <p style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/ulasislak/" target="_blank">
@@ -16,12 +18,13 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212623321-c4d6235b-1721-4f11-9a70-766a5cf8a994.gif" width="600" alt="Coding GIF"/> </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212623321-c4d6235b-1721-4f11-9a70-766a5cf8a994.gif" width="600" alt="Coding GIF"/> 
+</p>
 
 ---
 
 ### 📄 <span style="color:#4CAF50;">Hakkımda</span>
-Merhaba, ben Ulaş. .NET tabanlı teknolojilerle ölçeklenebilir ve performanslı backend çözümleri geliştirmeye odaklanmış bir yazılım geliştiricisiyim. Aynı zamanda Cursor ile React Native platformlar arası mobil uygulama geliştirme konusunda da çalışmlarım var. Temiz kod yazma prensiplerine inanıyor ve teknolojik yeteneklerimi sürekli olarak geliştirmeyi hedefliyorum. Yazılım dünyasındaki son gelişmeleri takip ederek projelerime değer katmayı amaçlıyorum.
+Merhaba, ben Ulaş. .NET tabanlı teknolojilerle ölçeklenebilir ve performanslı backend çözümleri geliştirmeye odaklanmış bir yazılım geliştiricisiyim. Aynı zamanda Cursor ile React Native platformlar arası mobil uygulama geliştirme konusunda da çalışmalarım var. Temiz kod yazma prensiplerine inanıyor ve teknolojik yeteneklerimi sürekli olarak geliştirmeyi hedefliyorum. Yazılım dünyasındaki son gelişmeleri takip ederek projelerime değer katmayı amaçlıyorum.
 
 ---
 
@@ -42,5 +45,4 @@ Merhaba, ben Ulaş. .NET tabanlı teknolojilerle ölçeklenebilir ve performansl
   &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasislak&theme=dark&hide_border=false&fire=FF4500&ring=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C0C0C0&currStreakLabel=C0C0C0&background=000000" alt="GitHub Streak"/>
 </p>
-
 ---
